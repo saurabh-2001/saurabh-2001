@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cloudtransformation.com.sg/wp-content/uploads/2018/08/banner-softwaredev.jpg)]
+![MasterHead](https://www.cloudtransformation.com.sg/wp-content/uploads/2018/08/banner-softwaredev.jpg)
 <h1 align="center">Hi 👋, I'm Saurabh Pawar</h1>
 <h3 align="center">A passionate Software developer</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"
